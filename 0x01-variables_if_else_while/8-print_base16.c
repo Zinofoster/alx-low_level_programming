@@ -5,7 +5,7 @@
 /**
  * main - print all the number of base 16 in lowercase.
  *
- * return: always 0.
+ * return: Always 0.
  */
 int main(void)
 {
@@ -17,6 +17,7 @@ int main(void)
 
 	for (letter = 'a'; letter <= 'f'; letter++)
 		putchar(letter);
+
 	putchar('\n');
 
 	return (0);
