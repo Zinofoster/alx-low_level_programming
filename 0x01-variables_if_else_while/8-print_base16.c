@@ -7,8 +7,11 @@
  *
  * return: Always 0.
  */
-int main()
+int main(void)
 {
+	/*
+	 * main - print all the number of base 16 in lowercase.
+	 */
 	int num;
 	char letter;
 
