@@ -6,7 +6,6 @@
  * main - print all the number of base 16 in lowercase.
  *
  * return: always 0.
- *
  */
 int main(void)
 {
