@@ -7,7 +7,7 @@
  *
  * return: Always 0.
  */
-int main(void)
+int main(void)//
 {
 	int num;
 	char letter;
